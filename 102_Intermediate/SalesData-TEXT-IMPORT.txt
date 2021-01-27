@@ -1,0 +1,445 @@
+Year	Month	Type	Salesperson	Region	Sales	Units	Order #
+2013	January	Ice Cream	Bishop	West	"$2,395.50 "	1597	001
+2013	January	Ice Cream	Bishop	West	"$11,761.50 "	7841	002
+2013	January	Frozen Yogurt	Bishop	West	"$8,943.00 "	5962	003
+2013	January	Ice Cream	Bishop	West	"$2,395.50 "	1597	004
+2013	January	Ice Cream	Bishop	West	"$11,761.50 "	7841	005
+2013	January	Frozen Yogurt	Bishop	West	"$8,943.00 "	5962	006
+2013	January	Frozen Yogurt	Lee	Central	"$14,596.50 "	9731	007
+2013	January	Tasty Treats	Lee	Central	"$8,793.00 "	5862	008
+2013	January	Frozen Yogurt	Lee	Central	"$14,596.50 "	9731	009
+2013	January	Tasty Treats	Lee	Central	"$8,793.00 "	5862	010
+2013	January	Ice Cream	Parker	North	"$4,666.00 "	5623	011
+2013	January	Ice Cream	Parker	North	"$7,318.50 "	4879	012
+2013	January	Ice Cream	Parker	North	"$4,666.00 "	5623	013
+2013	January	Ice Cream	Parker	North	"$7,318.50 "	4879	014
+2013	January	Popsicles	Pullen	South	"$3,553.50 "	2369	015
+2013	January	Popsicles	Pullen	South	"$3,553.50 "	2369	016
+2013	January	Frozen Yogurt	Watson	Central	"$14,596.50 "	9731	017
+2013	January	Tasty Treats	Watson	Central	"$8,793.00 "	5862	018
+2013	January	Frozen Yogurt	Watson	Central	"$14,596.50 "	9731	019
+2013	January	Tasty Treats	Watson	Central	"$8,793.00 "	5862	020
+2013	February	Ice Cream	Bishop	West	"$4,887.00 "	3258	021
+2013	February	Ice Cream	Bishop	West	"$4,887.00 "	3258	022
+2013	February	Tasty Treats	Lee	Central	"$11,122.50 "	7415	023
+2013	February	Ice Cream	Lee	Central	"$13,428.00 "	8952	024
+2013	February	Tasty Treats	Lee	Central	"$11,122.50 "	7415	025
+2013	February	Ice Cream	Lee	Central	"$13,428.00 "	8952	026
+2013	February	Frozen Yogurt	Parker	North	"$3,897.00 "	2598	027
+2013	February	Frozen Yogurt	Parker	North	"$8,832.00 "	5888	028
+2013	February	Frozen Yogurt	Parker	North	"$3,897.00 "	2598	029
+2013	February	Frozen Yogurt	Parker	North	"$8,832.00 "	5888	030
+2013	February	Tasty Treats	Pullen	South	"$11,122.50 "	7415	031
+2013	February	Frozen Yogurt	Pullen	South	"$14,647.50 "	9765	032
+2013	February	Tasty Treats	Pullen	South	"$11,122.50 "	7415	033
+2013	February	Frozen Yogurt	Pullen	South	"$14,647.50 "	9765	034
+2013	February	Ice Cream	Watson	Central	"$13,428.00 "	8952	035
+2013	February	Popsicles	Watson	Central	"$7,480.50 "	4987	036
+2013	February	Ice Cream	Watson	Central	"$13,428.00 "	8952	037
+2013	February	Popsicles	Watson	Central	"$7,480.50 "	4987	038
+2013	March	Tasty Treats	Bishop	West	"$14,619.00 "	9746	039
+2013	March	Ice Cream	Bishop	West	$867.00 	578	040
+2013	March	Tasty Treats	Bishop	West	"$14,619.00 "	9746	041
+2013	March	Ice Cream	Bishop	West	$867.00 	578	042
+2013	March	Tasty Treats	Lee	Central	"$14,619.00 "	9746	043
+2013	March	Ice Cream	Lee	Central	"$5,380.50 "	3587	044
+2013	March	Tasty Treats	Lee	Central	"$14,619.00 "	9746	045
+2013	March	Ice Cream	Lee	Central	"$5,380.50 "	3587	046
+2013	March	Tasty Treats	Parker	North	"$3,547.50 "	2365	047
+2013	March	Frozen Yogurt	Parker	North	"$14,596.50 "	9731	048
+2013	March	Tasty Treats	Parker	North	"$3,547.50 "	2365	049
+2013	March	Frozen Yogurt	Parker	North	"$14,596.50 "	9731	050
+2013	March	Frozen Yogurt	Pullen	South	"$1,498.50 "	999	051
+2013	March	Tasty Treats	Pullen	South	$235.50 	157	052
+2013	March	Frozen Yogurt	Pullen	South	"$1,498.50 "	999	053
+2013	March	Tasty Treats	Pullen	South	$235.50 	157	054
+2013	March	Ice Cream	Watson	Central	"$5,380.50 "	3587	055
+2013	March	Popsicles	Watson	Central	"$14,446.50 "	9631	056
+2013	March	Ice Cream	Watson	Central	"$5,380.50 "	3587	057
+2013	March	Popsicles	Watson	Central	"$14,446.50 "	9631	058
+2013	April	Popsicles	Bishop	West	"$2,367.00 "	1578	059
+2013	April	Tasty Treats	Bishop	West	"$6,880.50 "	4587	060
+2013	April	Popsicles	Bishop	West	"$2,367.00 "	1578	061
+2013	April	Tasty Treats	Bishop	West	"$6,880.50 "	4587	062
+2013	April	Ice Cream	Lee	Central	"$11,838.00 "	7892	063
+2013	April	Popsicles	Lee	Central	"$2,367.00 "	1578	064
+2013	April	Ice Cream	Lee	Central	"$7,030.50 "	4687	065
+2013	April	Frozen Yogurt	Lee	Central	"$2,046.00 "	1364	066
+2013	April	Ice Cream	Lee	Central	"$11,838.00 "	7892	067
+2013	April	Popsicles	Lee	Central	"$2,367.00 "	1578	068
+2013	April	Ice Cream	Lee	Central	"$7,030.50 "	4687	069
+2013	April	Frozen Yogurt	Lee	Central	"$2,046.00 "	1364	070
+2013	April	Tasty Treats	Parker	North	"$8,793.00 "	5862	071
+2013	April	Tasty Treats	Parker	North	"$11,122.50 "	7415	072
+2013	April	Ice Cream	Parker	North	"$13,428.00 "	8952	073
+2013	April	Tasty Treats	Parker	North	"$14,619.00 "	9746	074
+2013	April	Popsicles	Parker	North	"$2,367.00 "	1578	075
+2013	April	Tasty Treats	Parker	North	"$8,793.00 "	5862	076
+2013	April	Tasty Treats	Parker	North	"$11,122.50 "	7415	077
+2013	April	Ice Cream	Parker	North	"$13,428.00 "	8952	078
+2013	April	Tasty Treats	Parker	North	"$14,619.00 "	9746	079
+2013	April	Popsicles	Parker	North	"$2,367.00 "	1578	080
+2013	April	Ice Cream	Pullen	South	"$11,838.00 "	7892	081
+2013	April	Ice Cream	Pullen	South	"$11,979.00 "	7986	082
+2013	April	Ice Cream	Pullen	South	"$11,838.00 "	7892	083
+2013	April	Ice Cream	Pullen	South	"$11,979.00 "	7986	084
+2013	April	Ice Cream	Watson	Central	"$7,030.50 "	4687	085
+2013	April	Frozen Yogurt	Watson	Central	"$2,046.00 "	1364	086
+2013	April	Ice Cream	Watson	Central	"$7,030.50 "	4687	087
+2013	April	Frozen Yogurt	Watson	Central	"$2,046.00 "	1364	088
+2013	May	Frozen Yogurt	Bishop	West	$747.00 	498	089
+2013	May	Popsicles	Bishop	West	"$7,342.50 "	4895	090
+2013	May	Frozen Yogurt	Bishop	West	$747.00 	498	091
+2013	May	Popsicles	Bishop	West	"$7,342.50 "	4895	092
+2013	May	Popsicles	Lee	Central	"$7,344.00 "	4896	093
+2013	May	Ice Cream	Lee	Central	"$6,880.50 "	4587	094
+2013	May	Popsicles	Lee	Central	"$7,344.00 "	4896	095
+2013	May	Ice Cream	Lee	Central	"$6,880.50 "	4587	096
+2013	May	Ice Cream	Parker	North	"$5,380.50 "	3587	097
+2013	May	Ice Cream	Parker	North	"$11,838.00 "	7892	098
+2013	May	Ice Cream	Parker	North	"$5,380.50 "	3587	099
+2013	May	Ice Cream	Parker	North	"$11,838.00 "	7892	100
+2013	May	Popsicles	Pullen	South	"$7,344.00 "	4896	101
+2013	May	Ice Cream	Pullen	South	"$6,880.50 "	4587	102
+2013	May	Ice Cream	Pullen	South	"$7,318.50 "	4879	103
+2013	May	Popsicles	Pullen	South	"$7,344.00 "	4896	104
+2013	May	Ice Cream	Pullen	South	"$6,880.50 "	4587	105
+2013	May	Ice Cream	Pullen	South	"$7,318.50 "	4879	106
+2013	May	Tasty Treats	Watson	Central	"$6,880.50 "	4587	107
+2013	May	Ice Cream	Watson	Central	"$9,486.00 "	6324	108
+2013	May	Tasty Treats	Watson	Central	"$6,880.50 "	4587	109
+2013	May	Ice Cream	Watson	Central	"$9,486.00 "	6324	110
+2013	November	Ice Cream	Bishop	West	"$4,666.00 "	5623	111
+2013	November	Ice Cream	Bishop	West	"$10,992.00 "	7328	112
+2013	November	Ice Cream	Bishop	West	"$4,666.00 "	5623	113
+2013	November	Ice Cream	Bishop	West	"$10,992.00 "	7328	114
+2013	November	Ice Cream	Lee	Central	"$4,666.00 "	5623	115
+2013	November	Frozen Yogurt	Lee	Central	"$3,897.00 "	2598	116
+2013	November	Ice Cream	Lee	Central	"$4,666.00 "	5623	117
+2013	November	Frozen Yogurt	Lee	Central	"$3,897.00 "	2598	118
+2013	November	Frozen Yogurt	Parker	North	$747.00 	498	119
+2013	November	Tasty Treats	Parker	North	"$6,880.50 "	4587	120
+2013	November	Frozen Yogurt	Parker	North	$747.00 	498	121
+2013	November	Tasty Treats	Parker	North	"$6,880.50 "	4587	122
+2013	November	Frozen Yogurt	Pullen	South	"$3,897.00 "	2598	123
+2013	November	Popsicles	Pullen	South	"$3,084.00 "	2056	124
+2013	November	Frozen Yogurt	Pullen	South	"$3,897.00 "	2598	125
+2013	November	Popsicles	Pullen	South	"$3,084.00 "	2056	126
+2013	November	Tasty Treats	Watson	Central	"$12,370.50 "	8247	127
+2013	November	Ice Cream	Watson	Central	"$13,231.50 "	8821	128
+2013	November	Tasty Treats	Watson	Central	"$12,370.50 "	8247	129
+2013	November	Ice Cream	Watson	Central	"$13,231.50 "	8821	130
+2013	December	Frozen Yogurt	Bishop	West	"$8,832.00 "	5888	131
+2013	December	Ice Cream	Bishop	West	"$13,413.00 "	8942	132
+2013	December	Popsicles	Bishop	West	"$4,026.00 "	2684	133
+2013	December	Frozen Yogurt	Bishop	West	"$8,832.00 "	5888	134
+2013	December	Ice Cream	Bishop	West	"$13,413.00 "	8942	135
+2013	December	Popsicles	Bishop	West	"$4,026.00 "	2684	136
+2013	December	Frozen Yogurt	Lee	Central	"$8,832.00 "	5888	137
+2013	December	Tasty Treats	Lee	Central	"$3,547.50 "	2365	138
+2013	December	Frozen Yogurt	Lee	Central	"$8,832.00 "	5888	139
+2013	December	Tasty Treats	Lee	Central	"$3,547.50 "	2365	140
+2013	December	Ice Cream	Parker	North	"$9,486.00 "	6324	141
+2013	December	Popsicles	Parker	North	"$7,342.50 "	4895	142
+2013	December	Ice Cream	Parker	North	"$9,486.00 "	6324	143
+2013	December	Popsicles	Parker	North	"$7,342.50 "	4895	144
+2013	December	Tasty Treats	Pullen	South	"$3,547.50 "	2365	145
+2013	December	Ice Cream	Pullen	South	"$3,238.50 "	2159	146
+2013	December	Tasty Treats	Pullen	South	"$3,547.50 "	2365	147
+2013	December	Ice Cream	Pullen	South	"$3,238.50 "	2159	148
+2014	January	Ice Cream	Bishop	West	"$2,395.50 "	1597	149
+2014	January	Ice Cream	Bishop	West	"$11,761.50 "	7841	150
+2014	January	Frozen Yogurt	Bishop	West	"$8,943.00 "	5962	151
+2014	January	Ice Cream	Bishop	West	"$2,395.50 "	1597	152
+2014	January	Ice Cream	Bishop	West	"$11,761.50 "	7841	153
+2014	January	Frozen Yogurt	Bishop	West	"$8,943.00 "	5962	154
+2014	January	Frozen Yogurt	Lee	Central	"$14,596.50 "	9731	155
+2014	January	Tasty Treats	Lee	Central	"$8,793.00 "	5862	156
+2014	January	Frozen Yogurt	Lee	Central	"$14,596.50 "	9731	157
+2014	January	Tasty Treats	Lee	Central	"$8,793.00 "	5862	158
+2014	January	Ice Cream	Parker	North	"$4,666.00 "	5623	159
+2014	January	Ice Cream	Parker	North	"$7,318.50 "	4879	160
+2014	January	Ice Cream	Parker	North	"$4,666.00 "	5623	161
+2014	January	Ice Cream	Parker	North	"$7,318.50 "	4879	162
+2014	January	Popsicles	Pullen	South	"$3,553.50 "	2369	163
+2014	January	Popsicles	Pullen	South	"$3,553.50 "	2369	164
+2014	January	Frozen Yogurt	Watson	Central	"$14,596.50 "	9731	165
+2014	January	Tasty Treats	Watson	Central	"$8,793.00 "	5862	166
+2014	January	Frozen Yogurt	Watson	Central	"$14,596.50 "	9731	167
+2014	January	Tasty Treats	Watson	Central	"$8,793.00 "	5862	168
+2014	February	Ice Cream	Bishop	West	"$4,887.00 "	3258	169
+2014	February	Ice Cream	Bishop	West	"$4,887.00 "	3258	170
+2014	February	Tasty Treats	Lee	Central	"$11,122.50 "	7415	171
+2014	February	Ice Cream	Lee	Central	"$13,428.00 "	8952	172
+2014	February	Tasty Treats	Lee	Central	"$11,122.50 "	7415	173
+2014	February	Ice Cream	Lee	Central	"$13,428.00 "	8952	174
+2014	February	Frozen Yogurt	Parker	North	"$3,897.00 "	2598	175
+2014	February	Frozen Yogurt	Parker	North	"$8,832.00 "	5888	176
+2014	February	Frozen Yogurt	Parker	North	"$3,897.00 "	2598	177
+2014	February	Frozen Yogurt	Parker	North	"$8,832.00 "	5888	178
+2014	February	Tasty Treats	Pullen	South	"$11,122.50 "	7415	179
+2014	February	Frozen Yogurt	Pullen	South	"$14,647.50 "	9765	180
+2014	February	Tasty Treats	Pullen	South	"$11,122.50 "	7415	181
+2014	February	Frozen Yogurt	Pullen	South	"$14,647.50 "	9765	182
+2014	February	Ice Cream	Watson	Central	"$13,428.00 "	8952	183
+2014	February	Popsicles	Watson	Central	"$7,480.50 "	4987	184
+2014	February	Ice Cream	Watson	Central	"$13,428.00 "	8952	185
+2014	February	Popsicles	Watson	Central	"$7,480.50 "	4987	186
+2014	March	Tasty Treats	Bishop	West	"$14,619.00 "	9746	187
+2014	March	Ice Cream	Bishop	West	$867.00 	578	188
+2014	March	Tasty Treats	Bishop	West	"$14,619.00 "	9746	189
+2014	March	Ice Cream	Bishop	West	$867.00 	578	190
+2014	March	Tasty Treats	Lee	Central	"$14,619.00 "	9746	191
+2014	March	Ice Cream	Lee	Central	"$5,380.50 "	3587	192
+2014	March	Tasty Treats	Lee	Central	"$14,619.00 "	9746	193
+2014	March	Ice Cream	Lee	Central	"$5,380.50 "	3587	194
+2014	March	Tasty Treats	Parker	North	"$3,547.50 "	2365	195
+2014	March	Frozen Yogurt	Parker	North	"$14,596.50 "	9731	196
+2014	March	Tasty Treats	Parker	North	"$3,547.50 "	2365	197
+2014	March	Frozen Yogurt	Parker	North	"$14,596.50 "	9731	198
+2014	March	Frozen Yogurt	Pullen	South	"$1,498.50 "	999	199
+2014	March	Tasty Treats	Pullen	South	$235.50 	157	200
+2014	March	Frozen Yogurt	Pullen	South	"$1,498.50 "	999	201
+2014	March	Tasty Treats	Pullen	South	$235.50 	157	202
+2014	March	Ice Cream	Watson	Central	"$5,380.50 "	3587	203
+2014	March	Popsicles	Watson	Central	"$14,446.50 "	9631	204
+2014	March	Ice Cream	Watson	Central	"$5,380.50 "	3587	205
+2014	March	Popsicles	Watson	Central	"$14,446.50 "	9631	206
+2014	April	Popsicles	Bishop	West	"$2,367.00 "	1578	207
+2014	April	Tasty Treats	Bishop	West	"$6,880.50 "	4587	208
+2014	April	Popsicles	Bishop	West	"$2,367.00 "	1578	209
+2014	April	Tasty Treats	Bishop	West	"$6,880.50 "	4587	210
+2014	April	Ice Cream	Lee	Central	"$11,838.00 "	7892	211
+2014	April	Popsicles	Lee	Central	"$2,367.00 "	1578	212
+2014	April	Ice Cream	Lee	Central	"$7,030.50 "	4687	213
+2014	April	Frozen Yogurt	Lee	Central	"$2,046.00 "	1364	214
+2014	April	Ice Cream	Lee	Central	"$11,838.00 "	7892	215
+2014	April	Popsicles	Lee	Central	"$2,367.00 "	1578	216
+2014	April	Ice Cream	Lee	Central	"$7,030.50 "	4687	217
+2014	April	Frozen Yogurt	Lee	Central	"$2,046.00 "	1364	218
+2014	April	Tasty Treats	Parker	North	"$8,793.00 "	5862	219
+2014	April	Tasty Treats	Parker	North	"$11,122.50 "	7415	220
+2014	April	Ice Cream	Parker	North	"$13,428.00 "	8952	221
+2014	April	Tasty Treats	Parker	North	"$14,619.00 "	9746	222
+2014	April	Popsicles	Parker	North	"$2,367.00 "	1578	223
+2014	April	Tasty Treats	Parker	North	"$8,793.00 "	5862	224
+2014	April	Tasty Treats	Parker	North	"$11,122.50 "	7415	225
+2014	April	Ice Cream	Parker	North	"$13,428.00 "	8952	226
+2014	April	Tasty Treats	Parker	North	"$14,619.00 "	9746	227
+2014	April	Popsicles	Parker	North	"$2,367.00 "	1578	228
+2014	April	Ice Cream	Pullen	South	"$11,838.00 "	7892	229
+2014	April	Ice Cream	Pullen	South	"$11,979.00 "	7986	230
+2014	April	Ice Cream	Pullen	South	"$11,838.00 "	7892	231
+2014	April	Ice Cream	Pullen	South	"$11,979.00 "	7986	232
+2014	April	Ice Cream	Watson	Central	"$7,030.50 "	4687	233
+2014	April	Frozen Yogurt	Watson	Central	"$2,046.00 "	1364	234
+2014	April	Ice Cream	Watson	Central	"$7,030.50 "	4687	235
+2014	April	Frozen Yogurt	Watson	Central	"$2,046.00 "	1364	236
+2014	May	Frozen Yogurt	Bishop	West	$747.00 	498	237
+2014	May	Popsicles	Bishop	West	"$7,342.50 "	4895	238
+2014	May	Frozen Yogurt	Bishop	West	$747.00 	498	239
+2014	May	Popsicles	Bishop	West	"$7,342.50 "	4895	240
+2014	May	Popsicles	Lee	Central	"$7,344.00 "	4896	241
+2014	May	Ice Cream	Lee	Central	"$6,880.50 "	4587	242
+2014	May	Popsicles	Lee	Central	"$7,344.00 "	4896	243
+2014	May	Ice Cream	Lee	Central	"$6,880.50 "	4587	244
+2014	May	Ice Cream	Parker	North	"$5,380.50 "	3587	245
+2014	May	Ice Cream	Parker	North	"$11,838.00 "	7892	246
+2014	May	Ice Cream	Parker	North	"$5,380.50 "	3587	247
+2014	May	Ice Cream	Parker	North	"$11,838.00 "	7892	248
+2014	May	Popsicles	Pullen	South	"$7,344.00 "	4896	249
+2014	May	Ice Cream	Pullen	South	"$6,880.50 "	4587	250
+2014	May	Ice Cream	Pullen	South	"$7,318.50 "	4879	251
+2014	May	Popsicles	Pullen	South	"$7,344.00 "	4896	252
+2014	May	Ice Cream	Pullen	South	"$6,880.50 "	4587	253
+2014	May	Ice Cream	Pullen	South	"$7,318.50 "	4879	254
+2014	May	Tasty Treats	Watson	Central	"$6,880.50 "	4587	255
+2014	May	Ice Cream	Watson	Central	"$9,486.00 "	6324	256
+2014	May	Tasty Treats	Watson	Central	"$6,880.50 "	4587	257
+2014	May	Ice Cream	Watson	Central	"$9,486.00 "	6324	258
+2014	November	Ice Cream	Bishop	West	"$4,666.00 "	5623	259
+2014	November	Ice Cream	Bishop	West	"$10,992.00 "	7328	260
+2014	November	Ice Cream	Bishop	West	"$4,666.00 "	5623	261
+2014	November	Ice Cream	Bishop	West	"$10,992.00 "	7328	262
+2014	November	Ice Cream	Lee	Central	"$4,666.00 "	5623	263
+2014	November	Frozen Yogurt	Lee	Central	"$3,897.00 "	2598	264
+2014	November	Ice Cream	Lee	Central	"$4,666.00 "	5623	265
+2014	November	Frozen Yogurt	Lee	Central	"$3,897.00 "	2598	266
+2014	November	Frozen Yogurt	Parker	North	$747.00 	498	267
+2014	November	Tasty Treats	Parker	North	"$6,880.50 "	4587	268
+2014	November	Frozen Yogurt	Parker	North	$747.00 	498	269
+2014	November	Tasty Treats	Parker	North	"$6,880.50 "	4587	270
+2014	November	Frozen Yogurt	Pullen	South	"$3,897.00 "	2598	271
+2014	November	Popsicles	Pullen	South	"$3,084.00 "	2056	272
+2014	November	Frozen Yogurt	Pullen	South	"$3,897.00 "	2598	273
+2014	November	Popsicles	Pullen	South	"$3,084.00 "	2056	274
+2014	November	Tasty Treats	Watson	Central	"$12,370.50 "	8247	275
+2014	November	Ice Cream	Watson	Central	"$13,231.50 "	8821	276
+2014	November	Tasty Treats	Watson	Central	"$12,370.50 "	8247	277
+2014	November	Ice Cream	Watson	Central	"$13,231.50 "	8821	278
+2014	December	Frozen Yogurt	Bishop	West	"$8,832.00 "	5888	279
+2014	December	Ice Cream	Bishop	West	"$13,413.00 "	8942	280
+2014	December	Popsicles	Bishop	West	"$4,026.00 "	2684	281
+2014	December	Frozen Yogurt	Bishop	West	"$8,832.00 "	5888	282
+2014	December	Ice Cream	Bishop	West	"$13,413.00 "	8942	283
+2014	December	Popsicles	Bishop	West	"$4,026.00 "	2684	284
+2014	December	Frozen Yogurt	Lee	Central	"$8,832.00 "	5888	285
+2014	December	Tasty Treats	Lee	Central	"$3,547.50 "	2365	286
+2014	December	Frozen Yogurt	Lee	Central	"$8,832.00 "	5888	287
+2014	December	Tasty Treats	Lee	Central	"$3,547.50 "	2365	288
+2014	December	Ice Cream	Parker	North	"$9,486.00 "	6324	289
+2014	December	Popsicles	Parker	North	"$7,342.50 "	4895	290
+2014	December	Ice Cream	Parker	North	"$9,486.00 "	6324	291
+2014	December	Popsicles	Parker	North	"$7,342.50 "	4895	292
+2014	December	Tasty Treats	Pullen	South	"$3,547.50 "	2365	293
+2014	December	Ice Cream	Pullen	South	"$3,238.50 "	2159	294
+2014	December	Tasty Treats	Pullen	South	"$3,547.50 "	2365	295
+2014	December	Ice Cream	Pullen	South	"$3,238.50 "	2159	296
+2015	January	Ice Cream	Bishop	West	"$2,395.50 "	1597	297
+2015	January	Ice Cream	Bishop	West	"$11,761.50 "	7841	298
+2015	January	Frozen Yogurt	Bishop	West	"$8,943.00 "	5962	299
+2015	January	Ice Cream	Bishop	West	"$2,395.50 "	1597	300
+2015	January	Ice Cream	Bishop	West	"$11,761.50 "	7841	301
+2015	January	Frozen Yogurt	Bishop	West	"$8,943.00 "	5962	302
+2015	January	Frozen Yogurt	Lee	Central	"$14,596.50 "	9731	303
+2015	January	Tasty Treats	Lee	Central	"$8,793.00 "	5862	304
+2015	January	Frozen Yogurt	Lee	Central	"$14,596.50 "	9731	305
+2015	January	Tasty Treats	Lee	Central	"$8,793.00 "	5862	306
+2015	January	Ice Cream	Parker	North	"$4,666.00 "	5623	307
+2015	January	Ice Cream	Parker	North	"$7,318.50 "	4879	308
+2015	January	Ice Cream	Parker	North	"$4,666.00 "	5623	309
+2015	January	Ice Cream	Parker	North	"$7,318.50 "	4879	310
+2015	January	Popsicles	Pullen	South	"$3,553.50 "	2369	311
+2015	January	Popsicles	Pullen	South	"$3,553.50 "	2369	312
+2015	January	Frozen Yogurt	Watson	Central	"$14,596.50 "	9731	313
+2015	January	Tasty Treats	Watson	Central	"$8,793.00 "	5862	314
+2015	January	Frozen Yogurt	Watson	Central	"$14,596.50 "	9731	315
+2015	January	Tasty Treats	Watson	Central	"$8,793.00 "	5862	316
+2015	February	Ice Cream	Bishop	West	"$4,887.00 "	3258	317
+2015	February	Ice Cream	Bishop	West	"$4,887.00 "	3258	318
+2015	February	Tasty Treats	Lee	Central	"$11,122.50 "	7415	319
+2015	February	Ice Cream	Lee	Central	"$13,428.00 "	8952	320
+2015	February	Tasty Treats	Lee	Central	"$11,122.50 "	7415	321
+2015	February	Ice Cream	Lee	Central	"$13,428.00 "	8952	322
+2015	February	Frozen Yogurt	Parker	North	"$3,897.00 "	2598	323
+2015	February	Frozen Yogurt	Parker	North	"$8,832.00 "	5888	324
+2015	February	Frozen Yogurt	Parker	North	"$3,897.00 "	2598	325
+2015	February	Frozen Yogurt	Parker	North	"$8,832.00 "	5888	326
+2015	February	Tasty Treats	Pullen	South	"$11,122.50 "	7415	327
+2015	February	Frozen Yogurt	Pullen	South	"$14,647.50 "	9765	328
+2015	February	Tasty Treats	Pullen	South	"$11,122.50 "	7415	329
+2015	February	Frozen Yogurt	Pullen	South	"$14,647.50 "	9765	330
+2015	February	Ice Cream	Watson	Central	"$13,428.00 "	8952	331
+2015	February	Popsicles	Watson	Central	"$7,480.50 "	4987	332
+2015	February	Ice Cream	Watson	Central	"$13,428.00 "	8952	333
+2015	February	Popsicles	Watson	Central	"$7,480.50 "	4987	334
+2015	March	Tasty Treats	Bishop	West	"$14,619.00 "	9746	335
+2015	March	Ice Cream	Bishop	West	$867.00 	578	336
+2015	March	Tasty Treats	Bishop	West	"$14,619.00 "	9746	337
+2015	March	Ice Cream	Bishop	West	$867.00 	578	338
+2015	March	Tasty Treats	Lee	Central	"$14,619.00 "	9746	339
+2015	March	Ice Cream	Lee	Central	"$5,380.50 "	3587	340
+2015	March	Tasty Treats	Lee	Central	"$14,619.00 "	9746	341
+2015	March	Ice Cream	Lee	Central	"$5,380.50 "	3587	342
+2015	March	Tasty Treats	Parker	North	"$3,547.50 "	2365	343
+2015	March	Frozen Yogurt	Parker	North	"$14,596.50 "	9731	344
+2015	March	Tasty Treats	Parker	North	"$3,547.50 "	2365	345
+2015	March	Frozen Yogurt	Parker	North	"$14,596.50 "	9731	346
+2015	March	Frozen Yogurt	Pullen	South	"$1,498.50 "	999	347
+2015	March	Tasty Treats	Pullen	South	$235.50 	157	348
+2015	March	Frozen Yogurt	Pullen	South	"$1,498.50 "	999	349
+2015	March	Tasty Treats	Pullen	South	$235.50 	157	350
+2015	March	Ice Cream	Watson	Central	"$5,380.50 "	3587	351
+2015	March	Popsicles	Watson	Central	"$14,446.50 "	9631	352
+2015	March	Ice Cream	Watson	Central	"$5,380.50 "	3587	353
+2015	March	Popsicles	Watson	Central	"$14,446.50 "	9631	354
+2015	April	Popsicles	Bishop	West	"$2,367.00 "	1578	355
+2015	April	Tasty Treats	Bishop	West	"$6,880.50 "	4587	356
+2015	April	Popsicles	Bishop	West	"$2,367.00 "	1578	357
+2015	April	Tasty Treats	Bishop	West	"$6,880.50 "	4587	358
+2015	April	Ice Cream	Lee	Central	"$11,838.00 "	7892	359
+2015	April	Popsicles	Lee	Central	"$2,367.00 "	1578	360
+2015	April	Ice Cream	Lee	Central	"$7,030.50 "	4687	361
+2015	April	Frozen Yogurt	Lee	Central	"$2,046.00 "	1364	362
+2015	April	Ice Cream	Lee	Central	"$11,838.00 "	7892	363
+2015	April	Popsicles	Lee	Central	"$2,367.00 "	1578	364
+2015	April	Ice Cream	Lee	Central	"$7,030.50 "	4687	365
+2015	April	Frozen Yogurt	Lee	Central	"$2,046.00 "	1364	366
+2015	April	Tasty Treats	Parker	North	"$8,793.00 "	5862	367
+2015	April	Tasty Treats	Parker	North	"$11,122.50 "	7415	368
+2015	April	Ice Cream	Parker	North	"$13,428.00 "	8952	369
+2015	April	Tasty Treats	Parker	North	"$14,619.00 "	9746	370
+2015	April	Popsicles	Parker	North	"$2,367.00 "	1578	371
+2015	April	Tasty Treats	Parker	North	"$8,793.00 "	5862	372
+2015	April	Tasty Treats	Parker	North	"$11,122.50 "	7415	373
+2015	April	Ice Cream	Parker	North	"$13,428.00 "	8952	374
+2015	April	Tasty Treats	Parker	North	"$14,619.00 "	9746	375
+2015	April	Popsicles	Parker	North	"$2,367.00 "	1578	376
+2015	April	Ice Cream	Pullen	South	"$11,838.00 "	7892	377
+2015	April	Ice Cream	Pullen	South	"$11,979.00 "	7986	378
+2015	April	Ice Cream	Pullen	South	"$11,838.00 "	7892	379
+2015	April	Ice Cream	Pullen	South	"$11,979.00 "	7986	380
+2015	April	Ice Cream	Watson	Central	"$7,030.50 "	4687	381
+2015	April	Frozen Yogurt	Watson	Central	"$2,046.00 "	1364	382
+2015	April	Ice Cream	Watson	Central	"$7,030.50 "	4687	383
+2015	April	Frozen Yogurt	Watson	Central	"$2,046.00 "	1364	384
+2015	May	Frozen Yogurt	Bishop	West	$747.00 	498	385
+2015	May	Popsicles	Bishop	West	"$7,342.50 "	4895	386
+2015	May	Frozen Yogurt	Bishop	West	$747.00 	498	387
+2015	May	Popsicles	Bishop	West	"$7,342.50 "	4895	388
+2015	May	Popsicles	Lee	Central	"$7,344.00 "	4896	389
+2015	May	Ice Cream	Lee	Central	"$6,880.50 "	4587	390
+2015	May	Popsicles	Lee	Central	"$7,344.00 "	4896	391
+2015	May	Ice Cream	Lee	Central	"$6,880.50 "	4587	392
+2015	May	Ice Cream	Parker	North	"$5,380.50 "	3587	393
+2015	May	Ice Cream	Parker	North	"$11,838.00 "	7892	394
+2015	May	Ice Cream	Parker	North	"$5,380.50 "	3587	395
+2015	May	Ice Cream	Parker	North	"$11,838.00 "	7892	396
+2015	May	Popsicles	Pullen	South	"$7,344.00 "	4896	397
+2015	May	Ice Cream	Pullen	South	"$6,880.50 "	4587	398
+2015	May	Ice Cream	Pullen	South	"$7,318.50 "	4879	399
+2015	May	Popsicles	Pullen	South	"$7,344.00 "	4896	400
+2015	May	Ice Cream	Pullen	South	"$6,880.50 "	4587	401
+2015	May	Ice Cream	Pullen	South	"$7,318.50 "	4879	402
+2015	May	Tasty Treats	Watson	Central	"$6,880.50 "	4587	403
+2015	May	Ice Cream	Watson	Central	"$9,486.00 "	6324	404
+2015	May	Tasty Treats	Watson	Central	"$6,880.50 "	4587	405
+2015	May	Ice Cream	Watson	Central	"$9,486.00 "	6324	406
+2015	November	Ice Cream	Bishop	West	"$4,666.00 "	5623	407
+2015	November	Ice Cream	Bishop	West	"$10,992.00 "	7328	408
+2015	November	Ice Cream	Bishop	West	"$4,666.00 "	5623	409
+2015	November	Ice Cream	Bishop	West	"$10,992.00 "	7328	410
+2015	November	Ice Cream	Lee	Central	"$4,666.00 "	5623	411
+2015	November	Frozen Yogurt	Lee	Central	"$3,897.00 "	2598	412
+2015	November	Ice Cream	Lee	Central	"$4,666.00 "	5623	413
+2015	November	Frozen Yogurt	Lee	Central	"$3,897.00 "	2598	414
+2015	November	Frozen Yogurt	Parker	North	$747.00 	498	415
+2015	November	Tasty Treats	Parker	North	"$6,880.50 "	4587	416
+2015	November	Frozen Yogurt	Parker	North	$747.00 	498	417
+2015	November	Tasty Treats	Parker	North	"$6,880.50 "	4587	418
+2015	November	Frozen Yogurt	Pullen	South	"$3,897.00 "	2598	419
+2015	November	Popsicles	Pullen	South	"$3,084.00 "	2056	420
+2015	November	Frozen Yogurt	Pullen	South	"$3,897.00 "	2598	421
+2015	November	Popsicles	Pullen	South	"$3,084.00 "	2056	422
+2015	November	Tasty Treats	Watson	Central	"$12,370.50 "	8247	423
+2015	November	Ice Cream	Watson	Central	"$13,231.50 "	8821	424
+2015	November	Tasty Treats	Watson	Central	"$12,370.50 "	8247	425
+2015	November	Ice Cream	Watson	Central	"$13,231.50 "	8821	426
+2015	December	Frozen Yogurt	Bishop	West	"$8,832.00 "	5888	427
+2015	December	Ice Cream	Bishop	West	"$13,413.00 "	8942	428
+2015	December	Popsicles	Bishop	West	"$4,026.00 "	2684	429
+2015	December	Frozen Yogurt	Bishop	West	"$8,832.00 "	5888	430
+2015	December	Ice Cream	Bishop	West	"$13,413.00 "	8942	431
+2015	December	Popsicles	Bishop	West	"$4,026.00 "	2684	432
+2015	December	Frozen Yogurt	Lee	Central	"$8,832.00 "	5888	433
+2015	December	Tasty Treats	Lee	Central	"$3,547.50 "	2365	434
+2015	December	Frozen Yogurt	Lee	Central	"$8,832.00 "	5888	435
+2015	December	Tasty Treats	Lee	Central	"$3,547.50 "	2365	436
+2015	December	Ice Cream	Parker	North	"$9,486.00 "	6324	437
+2015	December	Popsicles	Parker	North	"$7,342.50 "	4895	438
+2015	December	Ice Cream	Parker	North	"$9,486.00 "	6324	439
+2015	December	Popsicles	Parker	North	"$7,342.50 "	4895	440
+2015	December	Tasty Treats	Pullen	South	"$3,547.50 "	2365	441
+2015	December	Ice Cream	Pullen	South	"$3,238.50 "	2159	442
+2015	December	Tasty Treats	Pullen	South	"$3,547.50 "	2365	443
+2015	December	Ice Cream	Pullen	South	"$3,238.50 "	2159	444
