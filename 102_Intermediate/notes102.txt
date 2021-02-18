@@ -2,4 +2,10 @@ Understanding Excel list structure:
 	column headers should be highlights
 	make sure columns are not empty.or any empty cells in the list.
 Sorting a List Using Single level Sort:
-	
+	sorting single column
+Sorting a List Using Multi level Sort:
+	data - big sort - add levels
+	we can sort till 64 levels of sort
+Using custom sorts in an Excel Sorts
+	sorting months,weekdays
+Filter on Excel sheet using the AutoFilter Tool
